@@ -29,7 +29,7 @@ export default function Login({ onLoginSuccess }: LoginProps) {
 
   // Registered authentic test accounts for simulation
   const googleAccounts = [
-    { email: 'nhultqhe204435@gmail.com', name: 'Lê Thị Quỳnh Như', id: 'HE204435', major: 'Digital Arts & Design', cohort: 'K20' },
+    { email: 'nhultqhe204435@gmail.com', name: 'Lê Thị Quỳnh Như', id: 'HE204435', major: 'Sortware engineering', cohort: 'K20' },
   ];
 
   const handleSelectAccount = (account: typeof googleAccounts[0]) => {
