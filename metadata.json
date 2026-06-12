@@ -1,0 +1,6 @@
+{
+  "name": "FPT Academic Portal",
+  "description": "FPT University Academic Portal mock system with fully functional weekly schedule for Summer 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
