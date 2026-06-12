@@ -12,7 +12,7 @@ export const students: Student[] = [
     name: 'Lê Thị Quỳnh Như',
     email: 'nhultqhe204435@gmail.com',
     campus: 'FPTU-Hòa Lạc',
-    major: 'Digital Arts & Design',
+    major: 'Sortware engineering',
     curriculum: 'Multimedia Communications 2025',
     cohort: 'K20',
   },
